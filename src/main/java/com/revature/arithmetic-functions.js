@@ -7,7 +7,7 @@
  */
 function add(a, b) {
     // TODO: Implement the add function
-    return "replace me";
+    return a+b;
 }
 
 /**
@@ -19,7 +19,7 @@ function add(a, b) {
  */
 function subtract(a, b) {
     // TODO: Implement the subtract function
-    return "replace me";
+    return a-b;
 }
 
 /**
@@ -31,7 +31,7 @@ function subtract(a, b) {
  */
 function multiply(a, b) {
     // TODO: Implement the multiply function
-    return "replace me";
+    return a*b;
 }
 
 /**
@@ -43,7 +43,7 @@ function multiply(a, b) {
  */
 function divide(a, b) {
     // TODO: Implement the divide function
-    return "replace me";
+    return a/b;
 }
 
 /**
@@ -55,7 +55,7 @@ function divide(a, b) {
  */
 function modulus(a, b) {
     // TODO: Implement the modulus function
-    return "replace me";
+    return a%b;
 }
 
 /**
@@ -67,7 +67,7 @@ function modulus(a, b) {
  */
 function exponentiate(base, exponent) {
     // TODO: Implement the exponentiate function
-    return "replace me";
+    return base ** exponent;
 }
 
 // exporting allows index.js to call these functions
